@@ -1,0 +1,7 @@
+{
+  "name": "comment-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "vercel": "^32.0.0"
+  }
+}
